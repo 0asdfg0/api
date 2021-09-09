@@ -1,15 +1,290 @@
 {
   "empleados":[
   {
-      "nombre": "RONQUILLO VILLAGOMEZ LESLIE FRANSHESCA",
-      "email": "recepciongye@gye.puntonet.ec",
-      "estado": "INACTIVE",
-      "departamento": null,
-      "cargo": null,
-      "nivel_cargo": null,
-      "identificacion": "0930369814",
-      "sede": null,
-      "email_jefe": null
-  }
+        "nombre": "MERCHAN ALVARADO SERGIO ANTONIO",
+        "email": "smerchan@gye.puntonet.ec",
+        "estado": "ACTIVE",
+        "departamento": "ADMINISTRATIVO",
+        "cargo": "AUXILIAR ADMINISTRATIVO",
+        "nivel_cargo": "7B",
+        "identificacion": "0951085448",
+        "sede": "GUAYAQUIL",
+        "email_jefe": "cespana@gye.puntonet.ec"
+    },
+    {
+        "nombre": "TOLEDO TORRES DALTON DEMETRIO",
+        "email": "dtoledo@cue.puntonet.ec",
+        "estado": "ACTIVE",
+        "departamento": "OPERACIONES MASIVAS",
+        "cargo": "OPERADOR DE RED MASIVO",
+        "nivel_cargo": "7B",
+        "identificacion": "0104761523",
+        "sede": "CUENCA",
+        "email_jefe": "acordero@cue.puntonet.ec"
+    },
+    {
+        "nombre": "MENDIETA BAJAÑA WILLIAM JAVIER",
+        "email": "wmendieta@gye.puntonet.ec",
+        "estado": "ACTIVE",
+        "departamento": "VENTAS MASIVAS",
+        "cargo": "ASESOR DE PRODUCTOS MASIVOS",
+        "nivel_cargo": "7A",
+        "identificacion": "0921777983",
+        "sede": "GUAYAQUIL",
+        "email_jefe": "emendoza@gye.puntonet.ec"
+    },
+    {
+        "nombre": "GUERRERO TIGRERO RICARDO DAVID",
+        "email": "rguerrero@gye.puntonet.ec",
+        "estado": "ACTIVE",
+        "departamento": "ADMINISTRATIVO",
+        "cargo": "AUXILIAR ADMINISTRATIVO",
+        "nivel_cargo": "7B",
+        "identificacion": "0916516511",
+        "sede": "GUAYAQUIL",
+        "email_jefe": "xmino@puntonet.ec"
+    },
+    {
+        "nombre": "BRAVO FLORES BORIS ANDRES",
+        "email": "bbravo@gye.puntonet.ec",
+        "estado": "ACTIVE",
+        "departamento": "OPERACIONES MASIVAS",
+        "cargo": "AYUDANTE DE INSTALACION MASIVA",
+        "nivel_cargo": "7B",
+        "identificacion": "0930292123",
+        "sede": "GUAYAQUIL",
+        "email_jefe": "lguaina@gye.puntonet.ec"
+    },
+    {
+        "nombre": "ORDOÑEZ PITA HUGO ISRAEL",
+        "email": "hordonez@gye.puntonet.ec",
+        "estado": "ACTIVE",
+        "departamento": "VENTAS CORPORATIVAS",
+        "cargo": "EJECUTIVO CORPORATIVO",
+        "nivel_cargo": "6B",
+        "identificacion": "0926066762",
+        "sede": "GUAYAQUIL",
+        "email_jefe": "ximena.baquerizo@gye.puntonet.ec"
+    },
+    {
+        "nombre": "ENCALADA CAMPOVERDE PEDRO SEBASTIAN",
+        "email": "pencalada@cue.puntonet.ec",
+        "estado": "ACTIVE",
+        "departamento": "OPERACIONES MASIVAS",
+        "cargo": "TECNICO DE INSTALACION MASIVA",
+        "nivel_cargo": "7B",
+        "identificacion": "0106652126",
+        "sede": "CUENCA",
+        "email_jefe": "acordero@cue.puntonet.ec"
+    },
+    {
+        "nombre": "ALAVA DELGADO BEATRIZ VIVIANA",
+        "email": "valava@puntonet.ec",
+        "estado": "ACTIVE",
+        "departamento": "VENTAS CORPORATIVAS",
+        "cargo": "EJECUTIVO DE CUENTAS CLAVES",
+        "nivel_cargo": "6A",
+        "identificacion": "1717905804",
+        "sede": "MANTA",
+        "email_jefe": "ximena.baquerizo@gye.puntonet.ec"
+    },
+    {
+        "nombre": "AMBI AREQUIPA EDUARDO ANIBAL",
+        "email": "eambi@puntonet.ec",
+        "estado": "ACTIVE",
+        "departamento": "COBRANZAS",
+        "cargo": "RECAUDADOR",
+        "nivel_cargo": "7B",
+        "identificacion": "1707433627",
+        "sede": "QUITO",
+        "email_jefe": "roberto.endara@puntonet.ec"
+    },
+    {
+        "nombre": "BARBOSA VALLADARES EDDY AUGUSTO",
+        "email": "ebarbosa@puntonet.ec",
+        "estado": "ACTIVE",
+        "departamento": "VENTAS CORPORATIVAS",
+        "cargo": "GERENTE NEGOCIOS CORPORATIVOS",
+        "nivel_cargo": "3B",
+        "identificacion": "1711240356",
+        "sede": "QUITO",
+        "email_jefe": "kmino@puntonet.ec"
+    },
+    {
+        "nombre": "BASANTES BASANTES CLARA DORILA",
+        "email": "cbasantes@puntonet.ec",
+        "estado": "ACTIVE",
+        "departamento": "ADMINISTRATIVO",
+        "cargo": "AUXILIAR ADMINISTRATIVO",
+        "nivel_cargo": "7B",
+        "identificacion": "1803623931",
+        "sede": "QUITO",
+        "email_jefe": "mauricio.naranjo@puntonet.ec"
+    },
+    {
+        "nombre": "BENALCAZAR CARGUA ALEX PAUL",
+        "email": "abenalcazar@puntonet.ec",
+        "estado": "ACTIVE",
+        "departamento": "NOC",
+        "cargo": "TECNICO DE INSTALACION NOC",
+        "nivel_cargo": "7B",
+        "identificacion": "1710337914",
+        "sede": "QUITO",
+        "email_jefe": "eramirez@puntonet.ec"
+    },
+    {
+        "nombre": "BOLAÑOS CAÑADAS MAURICIO WLADIMIR",
+        "email": "mwbolanos@puntonet.ec",
+        "estado": "ACTIVE",
+        "departamento": "VENTAS MASIVAS",
+        "cargo": "ASESOR DE PRODUCTOS MASIVOS",
+        "nivel_cargo": "7A",
+        "identificacion": "1707011316",
+        "sede": "QUITO",
+        "email_jefe": "jbenavides@puntonet.ec"
+    },
+    {
+        "nombre": "CABRERA AVILA DIONISIO ROLENDIO",
+        "email": "dcabrera@cue.puntonet.ec",
+        "estado": "ACTIVE",
+        "departamento": "OPERACIONES",
+        "cargo": "JEFE TECNICO SUCURSAL MAYOR",
+        "nivel_cargo": "5A",
+        "identificacion": "0104553763",
+        "sede": "CUENCA",
+        "email_jefe": "lquintero@puntonet.ec"
+    },
+    {
+        "nombre": "CALDERON TORRES CARLOS LENIN",
+        "email": "ccalderon@sto.puntonet.ec",
+        "estado": "ACTIVE",
+        "departamento": "ATC MASIVO",
+        "cargo": "EJECUTIVO DE ATENCION AL CLIENTE",
+        "nivel_cargo": "7B",
+        "identificacion": "1718105412",
+        "sede": "SANTO DOMINGO",
+        "email_jefe": "kaspiazu@gye.puntonet.ec"
+    },
+    {
+        "nombre": "CAPITO RUIZ MARIO VICENTE",
+        "email": "mcapito@puntonet.ec",
+        "estado": "ACTIVE",
+        "departamento": "SISTEMAS",
+        "cargo": "GERENTE DE IT",
+        "nivel_cargo": "3B",
+        "identificacion": "1709131336",
+        "sede": "QUITO",
+        "email_jefe": "kmino@puntonet.ec"
+    },
+    {
+        "nombre": "CHUQUITARCO CORRALES JULIO CESAR",
+        "email": "julioc@gye.puntonet.ec",
+        "estado": "ACTIVE",
+        "departamento": "NOC",
+        "cargo": "SUPERVISOR NOC",
+        "nivel_cargo": "6A",
+        "identificacion": "1710533926",
+        "sede": "GUAYAQUIL",
+        "email_jefe": "gindacochea@puntonet.ec"
+    },
+    {
+        "nombre": "DIAZ NARANJO SILVANA PAOLA",
+        "email": "sdiaz@puntonet.ec",
+        "estado": "ACTIVE",
+        "departamento": "GERENCIA DE SUCURSAL",
+        "cargo": "GERENTE SUCURSAL CUENCA",
+        "nivel_cargo": "3B",
+        "identificacion": "1713064549",
+        "sede": "CUENCA",
+        "email_jefe": "kmino@puntonet.ec"
+    },
+    {
+        "nombre": "ERAZO VERA LIDIA PAOLA",
+        "email": "lerazo@puntonet.ec",
+        "estado": "ACTIVE",
+        "departamento": "ATC CORPORATIVO",
+        "cargo": "SUPERVISOR DE GESTION CORPORATIVA",
+        "nivel_cargo": "5B",
+        "identificacion": "1718392168",
+        "sede": "QUITO",
+        "email_jefe": "lquintero@puntonet.ec"
+    },
+    {
+        "nombre": "FALCONI CARDONA MARLON PAUL",
+        "email": "pfalconi@puntonet.ec",
+        "estado": "ACTIVE",
+        "departamento": "CLOUD Y DATA CENTER",
+        "cargo": "ESPECIALISTA DE DATA CENTER",
+        "nivel_cargo": "6B",
+        "identificacion": "0602081622",
+        "sede": "QUITO",
+        "email_jefe": "wfreire@puntonet.ec"
+    },
+    {
+        "nombre": "FALCONI CARDONA ROBERTO MARCIAL",
+        "email": "roberto@puntonet.ec",
+        "estado": "ACTIVE",
+        "departamento": "OPERACIONES",
+        "cargo": "DIRECTOR NACIONAL TECNOLOGIA",
+        "nivel_cargo": "3A",
+        "identificacion": "0602081531",
+        "sede": "QUITO",
+        "email_jefe": "kmino@puntonet.ec"
+    },
+    {
+        "nombre": "GANCHOZO ESPINEL CESAR ANDRES",
+        "email": "cganchozo@puntonet.ec",
+        "estado": "ACTIVE",
+        "departamento": "OPERACIONES",
+        "cargo": "JEFE TECNICO SUCURSAL MENOR",
+        "nivel_cargo": "6A",
+        "identificacion": "1719780676",
+        "sede": "SANTO DOMINGO",
+        "email_jefe": "lquintero@puntonet.ec"
+    },
+    {
+        "nombre": "GOMEZ PAVON DIEGO ENVERLIN",
+        "email": "dgomez@puntonet.ec",
+        "estado": "ACTIVE",
+        "departamento": "OPERACIONES CORPORATIVAS",
+        "cargo": "OPERADOR DE RED CORPORATIVO",
+        "nivel_cargo": "7B",
+        "identificacion": "1712145620",
+        "sede": "QUITO",
+        "email_jefe": "jaris.aizprua@puntonet.ec"
+    },
+    {
+        "nombre": "GRANDA ROMERO MARCO JAVIER",
+        "email": "mjgranda@puntonet.ec",
+        "estado": "ACTIVE",
+        "departamento": "NOC",
+        "cargo": "ESPECIALISTA DE MEDIOS GUIADOS",
+        "nivel_cargo": "6B",
+        "identificacion": "1717751331",
+        "sede": "QUITO",
+        "email_jefe": "wilson@puntonet.ec"
+    },
+    {
+        "nombre": "INDACOCHEA SANCAN GUSTAVO ROLANDO",
+        "email": "gindacochea@puntonet.ec",
+        "estado": "ACTIVE",
+        "departamento": "NOC",
+        "cargo": "JEFE NACIONAL DE OPERACIONES NOC",
+        "nivel_cargo": "5A",
+        "identificacion": "1308265881",
+        "sede": "QUITO",
+        "email_jefe": "wilson@puntonet.ec"
+    },
+    {
+        "nombre": "JACOME GUTIERREZ PAOLA DE LOS ANGELES",
+        "email": "pjacome@puntonet.ec",
+        "estado": "ACTIVE",
+        "departamento": "OPERACIONES",
+        "cargo": "JEFE DE SEGURIDAD DE LA INFORMACION",
+        "nivel_cargo": "5A",
+        "identificacion": "1718564840",
+        "sede": "QUITO",
+        "email_jefe": "roberto@puntonet.ec"
+    }
   ]
 }
