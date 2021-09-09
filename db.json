@@ -1,16 +1,15 @@
-[  
 {
-    "nombre": "Varela Campos Jaime Oswaldo",
-    "email": "ovarela@squarenet.com.ec",
-    "estado": "ACTIVE",
-    "cargo": "Secretaria",
-    "identificacion": "1715331862"
-  },
- {
-    "nombre": "Moreno Gonzalez Nicolas Andres",
-    "email": "nmoreno@squarenet.com.ec",
-    "estado": "ACTIVE",
-    "cargo": "Secretaria",
-    "identificacion": "1012453964"
+  "empleados":[
+  {
+      "nombre": "RONQUILLO VILLAGOMEZ LESLIE FRANSHESCA",
+      "email": "recepciongye@gye.puntonet.ec",
+      "estado": "INACTIVE",
+      "departamento": null,
+      "cargo": null,
+      "nivel_cargo": null,
+      "identificacion": "0930369814",
+      "sede": null,
+      "email_jefe": null
   }
-]
+  ]
+}
