@@ -1,8 +1,8 @@
 {
   "empleados":[
   {
-        "nombre": "MERCHAN ALVARADO SERGIO ANTONIO-pruebas",
-        "email": "smerchan@gye.puntonet.ec",
+        "nombre": "Martin-pruebas",
+        "email": "martingye.puntonet.ec",
         "estado": "ACTIVE",
         "departamento": "ADMINISTRATIVO",
         "cargo": "AUXILIAR ADMINISTRATIVO",
