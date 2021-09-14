@@ -254,39 +254,6 @@
         "email_jefe": "jaris.aizprua@puntonet.ec"
     },
     {
-        "nombre": "GRANDA ROMERO MARCO JAVIER",
-        "email": "mjgranda@puntonet.ec",
-        "estado": "ACTIVE",
-        "departamento": "NOC",
-        "cargo": "ESPECIALISTA DE MEDIOS GUIADOS",
-        "nivel_cargo": "6B",
-        "identificacion": "1717751331",
-        "sede": "QUITO",
-        "email_jefe": "wilson@puntonet.ec"
-    },
-    {
-        "nombre": "INDACOCHEA SANCAN GUSTAVO ROLANDO",
-        "email": "gindacochea@puntonet.ec",
-        "estado": "ACTIVE",
-        "departamento": "NOC",
-        "cargo": "JEFE NACIONAL DE OPERACIONES NOC",
-        "nivel_cargo": "5A",
-        "identificacion": "1308265881",
-        "sede": "QUITO",
-        "email_jefe": "wilson@puntonet.ec"
-    },
-    {
-        "nombre": "JACOME GUTIERREZ PAOLA DE LOS ANGELES",
-        "email": "pjacome@puntonet.ec",
-        "estado": "ACTIVE",
-        "departamento": "OPERACIONES",
-        "cargo": "JEFE DE SEGURIDAD DE LA INFORMACION",
-        "nivel_cargo": "5A",
-        "identificacion": "1718564840",
-        "sede": "QUITO",
-        "email_jefe": "roberto@puntonet.ec"
-    },
-    {
         "nombre": "Nicolas pruebas",
         "email": "nicolas@puntonet.ec",
         "estado": "ACTIVE",
