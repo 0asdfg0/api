@@ -263,6 +263,17 @@
         "identificacion": "10000002",
         "sede": "QUITO",
         "email_jefe": "nico@puntonet.ec"
+    },
+    {
+        "nombre": "Lorena prueba",
+        "email": "lorena@puntonet.ec",
+        "estado": "ACTIVE",
+        "departamento": "OPERACIONES",
+        "cargo": "TESTING QA",
+        "nivel_cargo": "20A",
+        "identificacion": "10000004",
+        "sede": "QUITO",
+        "email_jefe": "lore@puntonet.ec"
     }
   ]
 }
