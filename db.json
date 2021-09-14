@@ -2,7 +2,7 @@
   "empleados":[
   {
         "nombre": "Pruebas-pruebas",
-        "email": "martin@gye.puntonet.ec",
+        "email": "",
         "estado": "ACTIVE",
         "departamento": "ADMINISTRATIVO",
         "cargo": "AUXILIAR ADMINISTRATIVO",
