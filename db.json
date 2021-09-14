@@ -3,8 +3,8 @@
   {
         "nombre": "Pruebas-pruebas",
         "email": "prueba@cue.puntonet.ec",
-        "estado": "ACTIVE",
-        "departamento": "ADMINISTRATIVO",
+        "estado": "INACTIVE",
+        "departamento": "ADMINISTRATIVO-PRUEBAS",
         "cargo": "AUXILIAR ADMINISTRATIVO",
         "nivel_cargo": "7B",
         "identificacion": "10000002",
