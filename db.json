@@ -2,7 +2,7 @@
   "empleados":[
   {
         "nombre": "Pruebas-pruebas",
-        "email": "prueba@cue.puntonetec",
+        "email": "prueba@@cue.puntonetec",
         "estado": "ACTIVE",
         "departamento": "ADMINISTRATIVO",
         "cargo": "AUXILIAR ADMINISTRATIVO",
