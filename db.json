@@ -254,15 +254,15 @@
         "email_jefe": "nico@puntonet.ec"
     },
     {
-        "nombre": "Lorena prueba",
-        "email": "lorena@puntonet.ec",
+        "nombre": "david prueba",
+        "email": "david@puntonet.ec",
         "estado": "ACTIVE",
         "departamento": "OPERACIONES",
         "cargo": "TESTING QA",
         "nivel_cargo": "20A",
-        "identificacion": "10000004",
+        "identificacion": "10000005",
         "sede": "QUITO",
-        "email_jefe": "lore@puntonet.ec"
+        "email_jefe": "wfreire@puntonet.ec"
     }
   ]
 }
