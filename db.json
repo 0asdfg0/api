@@ -296,6 +296,17 @@
         "identificacion": "1000001",
         "sede": "QUITO",
         "email_jefe": "roberto@puntonet.ec"
+    },
+    {
+        "nombre": "Nicolas pruebas",
+        "email": "nicolas@puntonet.ec",
+        "estado": "ACTIVE",
+        "departamento": "OPERACIONES",
+        "cargo": "TESTING QA",
+        "nivel_cargo": "20A",
+        "identificacion": "10000002",
+        "sede": "QUITO",
+        "email_jefe": "nico@puntonet.ec"
     }
   ]
 }
