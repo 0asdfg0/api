@@ -243,17 +243,6 @@
         "email_jefe": "lquintero@puntonet.ec"
     },
     {
-        "nombre": "GOMEZ PAVON DIEGO ENVERLIN",
-        "email": "dgomez@puntonet.ec",
-        "estado": "ACTIVE",
-        "departamento": "OPERACIONES CORPORATIVAS",
-        "cargo": "OPERADOR DE RED CORPORATIVO",
-        "nivel_cargo": "7B",
-        "identificacion": "1712145620",
-        "sede": "QUITO",
-        "email_jefe": "jaris.aizprua@puntonet.ec"
-    },
-    {
         "nombre": "Nicolas pruebas moreno Gonzalez",
         "email": "nicolasmorenogon@puntonet.ec",
         "estado": "ACTIVE",
