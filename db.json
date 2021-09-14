@@ -5,9 +5,9 @@
         "email": "prueba@cue.puntonet.ec",
         "estado": "ACTIVE",
         "departamento": "ADMINISTRATIVO-PRUEBAS",
-        "cargo": "AUXILIAR ADMINISTRATIVO",
-        "nivel_cargo": "7B",
-        "identificacion": "10000002",
+        "cargo": "AUXILIAR ADMINISTRATIVO-PRUEBAS",
+        "nivel_cargo": "21A",
+        "identificacion": "10000003",
         "sede": "GUAYAQUIL",
         "email_jefe": "nicolasmorenogon@puntonet.ec"
     },
