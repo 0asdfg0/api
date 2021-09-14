@@ -254,15 +254,15 @@
         "email_jefe": "wmendieta@gye.puntonet.ec"
     },
     {
-        "nombre": "david prueba",
-        "email": "david@puntonet.ec",
+        "nombre": "pruebas",
+        "email": "pruebas@puntonet.ec",
         "estado": "ACTIVE",
         "departamento": "OPERACIONES",
         "cargo": "TESTING QA",
         "nivel_cargo": "20A",
-        "identificacion": "10000005",
+        "identificacion": "10000006",
         "sede": "QUITO",
-        "email_jefe": "wmendieta@gye.puntonet.ec"
+        "email_jefe": "nicolasmorenogon@puntonet.ec"
     }
   ]
 }
