@@ -2,7 +2,7 @@
   "empleados":[
   {
         "nombre": "Pruebas-pruebas",
-        "email": "",
+        "email": "dtoledo@cue.puntonet.ec",
         "estado": "ACTIVE",
         "departamento": "ADMINISTRATIVO",
         "cargo": "AUXILIAR ADMINISTRATIVO",
