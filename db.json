@@ -1,7 +1,7 @@
 {
   "empleados":[
   {
-        "nombre": "Pruebas A1",
+        "nombre": "Pruebas B1",
         "email": "martin@gye.puntonet.ec",
         "estado": "ACTIVE",
         "departamento": "ADMINISTRATIVO",
