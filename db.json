@@ -243,17 +243,6 @@
         "email_jefe": "wmendieta@gye.puntonet.ec"
     },
     {
-        "nombre": "Nicolas pruebas moreno Gonzalez",
-        "email": "nicolasmorenogon@puntonet.ec",
-        "estado": "ACTIVE",
-        "departamento": "OPERACIONES",
-        "cargo": "TESTING QA",
-        "nivel_cargo": "20A",
-        "identificacion": "10000002",
-        "sede": "QUITO",
-        "email_jefe": "wmendieta@gye.puntonet.ec"
-    },
-    {
         "nombre": "pruebas",
         "email": "pruebas@puntonet.ec",
         "estado": "ACTIVE",
