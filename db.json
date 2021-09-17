@@ -1,12 +1,12 @@
 {
   "empleados":[
   {
-        "nombre": "Pruebas-1",
+        "nombre": "Pruebas-1A",
         "email": "prueba1@cue.puntonet.ec",
         "estado": "ACTIVE",
-        "departamento": "PRUEBAS-1",
-        "cargo": "PRUEBAS-1",
-        "nivel_cargo": "100A",
+        "departamento": "PRUEBAS-1A",
+        "cargo": "PRUEBAS-1A",
+        "nivel_cargo": "100AA",
         "identificacion": "10000030",
         "sede": "FUSAGASUGA",
         "email_jefe": "wmendieta@gye.puntonet.ec"
