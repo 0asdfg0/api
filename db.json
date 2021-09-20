@@ -12,13 +12,13 @@
         "email_jefe": "pruebas5@gye.puntonet.ec"
     },
     {
-        "nombre": "Pruebas-2",
-        "email": "pruebas2@gye.puntonet.ec",
+        "nombre": "Pruebas-1A",
+        "email": "prueba1@cue.puntonet.ec",
         "estado": "ACTIVE",
-        "departamento": "PRUEBAS-2",
-        "cargo": "PRUEBAS-2",
-        "nivel_cargo": "101A",
-        "identificacion": "1000000031",
+        "departamento": "PRUEBAS-1A",
+        "cargo": "PRUEBAS-1A",
+        "nivel_cargo": "100AA",
+        "identificacion": "10000030",
         "sede": "FUSAGASUGA",
         "email_jefe": "pruebas5@gye.puntonet.ec"
     },
