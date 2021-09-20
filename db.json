@@ -2,8 +2,8 @@
   "empleados":[
 
     {
-        "nombre": "test-1",
-        "email": "test1@cue.puntonet.ec",
+        "nombre": "test-3",
+        "email": "test3@gye.puntonet.ec",
         "estado": "ACTIVE",
         "departamento": "B2",
         "cargo": "B2",
@@ -13,8 +13,8 @@
         "email_jefe": "pruebaskandia4@skandiacom"
     },
     {
-        "nombre": "test-2",
-        "email": "test1@gye.puntonet.ec",
+        "nombre": "test-4",
+        "email": "test3@gye.puntonet.ec",
         "estado": "ACTIVE",
         "departamento": "FUSAGASUGA",
         "cargo": "PRUEBAS-3",
