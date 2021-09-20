@@ -1,16 +1,6 @@
 {
   "empleados":[
-  {
-        "nombre": "Pruebas-1A-Lunes 20 de septiembre",
-        "email": "prueba1@cue.puntonet.ec",
-        "estado": "ACTIVE",
-        "departamento": "PRUEBAS-1A",
-        "cargo": "PRUEBAS-1A",
-        "nivel_cargo": "100AA",
-        "identificacion": "10000030",
-        "sede": "BOGOTA",
-        "email_jefe": "pruebaskandia3@skandia.com"
-    },
+
     {
         "nombre": "Lunes 20 de septiembre",
         "email": "prueba1@cue.puntonet.ec",
@@ -20,7 +10,7 @@
         "nivel_cargo": "QA-1",
         "identificacion": "10000036",
         "sede": "BOGOTÁ",
-        "email_jefe": "pruebaskandia3@skandia.com"
+        "email_jefe": "pruebaskandia4skandiacom"
     },
     {
         "nombre": "Pruebas-3",
@@ -31,7 +21,7 @@
         "nivel_cargo": "101A",
         "identificacion": "1000000032",
         "sede": "FUSAGUSA",
-        "email_jefe": "pruebaskandia3@skandia.com"
+        "email_jefe": "pruebaskandia4skandiacom"
     },
     {
         "nombre": "PRUEBAS-4",
@@ -42,7 +32,7 @@
         "nivel_cargo": "102A",
         "identificacion": "1000000033",
         "sede": "FUSAGASUGA",
-        "email_jefe": "pruebaskandia3@skandia.com"
+        "email_jefe": "pruebaskandia4skandiacom"
     },
     {
         "nombre": "PRUEBAS-5",
