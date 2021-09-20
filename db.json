@@ -13,14 +13,14 @@
         "email_jefe": "pruebaskandia4@skandiacom"
     },
     {
-        "nombre": "test2",
+        "nombre": "test-2",
         "email": "test1@gye.puntonet.ec",
         "estado": "ACTIVE",
         "departamento": "FUSAGASUGA",
         "cargo": "PRUEBAS-3",
         "nivel_cargo": "101A",
         "identificacion": "1000000032",
-        "sede": "FUSAGUSA",
+        "sede": "FUSAGASUGA",
         "email_jefe": "pruebaskandia4@skandiacom"
     },
     {
