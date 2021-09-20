@@ -10,7 +10,7 @@
         "nivel_cargo": "QA-1",
         "identificacion": "10000036",
         "sede": "BOGOTÁ",
-        "email_jefe": "pruebaskandia4@skandia.com"
+        "email_jefe": ""
     },
     {
         "nombre": "Pruebas-3",
@@ -21,7 +21,7 @@
         "nivel_cargo": "101A",
         "identificacion": "1000000032",
         "sede": "FUSAGUSA",
-        "email_jefe": "pruebaskandia4@skandia.com"
+        "email_jefe": ""
     },
     {
         "nombre": "PRUEBAS-4",
