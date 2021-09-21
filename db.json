@@ -2,7 +2,7 @@
   "empleados":[
 
     {
-        "nombre": "TEST-1",
+        "nombre": "",
         "email": "test3@gye.puntonet.ec",
         "estado": "ACTIVE",
         "departamento": "B2",
