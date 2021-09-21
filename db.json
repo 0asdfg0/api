@@ -8,7 +8,7 @@
         "departamento": "B2",
         "cargo": "B2",
         "nivel_cargo": "B2",
-        "identificacion": "200000035",
+        "identificacion": "",
         "sede": "FUSAGASUGA",
         "email_jefe": "pruebaskandia3@skandia.com"
     },
@@ -19,7 +19,7 @@
         "departamento": "FUSAGASUGA",
         "cargo": "PRUEBAS-3",
         "nivel_cargo": "101A",
-        "identificacion": "2000000036",
+        "identificacion": "",
         "sede": "FUSAGASUGA",
         "email_jefe": "pruebaskandia3@skandia.com"
     },
@@ -30,7 +30,7 @@
         "departamento": "FUSAGASUGA",
         "cargo": "PRUEBAS-4",
         "nivel_cargo": "102A",
-        "identificacion": "2000000037",
+        "identificacion": "",
         "sede": "FUSAGASUGA",
         "email_jefe": "pruebaskandia3@skandia.com"
     },
@@ -41,7 +41,7 @@
         "departamento": "VENTAS CORPORATIVAS",
         "cargo": "PRUEBAS-5",
         "nivel_cargo": "6B",
-        "identificacion": "200000038",
+        "identificacion": "",
         "sede": "GUAYAQUIL",
         "email_jefe": "pruebaskandia3@skandia.com"
     },
@@ -52,7 +52,7 @@
         "departamento": "OPERACIONES MASIVAS",
         "cargo": "TECNICO DE INSTALACION MASIVA",
         "nivel_cargo": "7B",
-        "identificacion": "200000039",
+        "identificacion": "",
         "sede": "CUENCA",
         "email_jefe": "pruebaskandia3@skandia.com"
     },
