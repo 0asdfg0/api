@@ -10,7 +10,7 @@
         "nivel_cargo": "B2",
         "identificacion": "100000030",
         "sede": "FUSAGASUGA",
-        "email_jefe": "pruebaskandia4@skandiacom"
+        "email_jefe": "pruebaskandia4@skandia.com"
     },
     {
         "nombre": "test-2",
@@ -21,7 +21,7 @@
         "nivel_cargo": "101A",
         "identificacion": "1000000031",
         "sede": "FUSAGASUGA",
-        "email_jefe": "pruebaskandia4@skandiacom"
+        "email_jefe": "pruebaskandia4@skandia.com"
     },
     {
         "nombre": "PRUEBAS-3",
@@ -32,7 +32,7 @@
         "nivel_cargo": "102A",
         "identificacion": "1000000032",
         "sede": "FUSAGASUGA",
-        "email_jefe": "pruebaskandia4@skandiacom"
+        "email_jefe": "pruebaskandia4@skandia.com"
     },
     {
         "nombre": "PRUEBAS-4",
