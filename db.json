@@ -4,7 +4,7 @@
     {
         "nombre": "TEST-1",
         "email": "test3@gye.puntonet.ec",
-        "estado": "INACTIVE",
+        "estado": "ACTIVE",
         "departamento": "B2",
         "cargo": "B2",
         "nivel_cargo": "B2",
@@ -15,7 +15,7 @@
     {
         "nombre": "TEST-2",
         "email": "test4@gye.puntonet.ec",
-        "estado": "INACTIVE",
+        "estado": "ACTIVE",
         "departamento": "FUSAGASUGA",
         "cargo": "PRUEBAS-3",
         "nivel_cargo": "101A",
@@ -26,7 +26,7 @@
     {
         "nombre": "TEST-3",
         "email": "pruebas4@gye.puntonet.ec",
-        "estado": "INACTIVE",
+        "estado": "ACTIVE",
         "departamento": "FUSAGASUGA",
         "cargo": "PRUEBAS-4",
         "nivel_cargo": "102A",
@@ -37,7 +37,7 @@
     {
         "nombre": "TEST-4",
         "email": "pruebas5@gye.puntonet.ec",
-        "estado": "INACTIVE",
+        "estado": "ACTIVE",
         "departamento": "VENTAS CORPORATIVAS",
         "cargo": "PRUEBAS-5",
         "nivel_cargo": "6B",
@@ -48,7 +48,7 @@
     {
         "nombre": "TEST-5",
         "email": "prueba6@cue.puntonet.ec",
-        "estado": "INACTIVE",
+        "estado": "ACTIVE",
         "departamento": "OPERACIONES MASIVAS",
         "cargo": "TECNICO DE INSTALACION MASIVA",
         "nivel_cargo": "7B",
