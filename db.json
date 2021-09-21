@@ -4,7 +4,7 @@
     {
         "nombre": "TEST-1",
         "email": "test3@gye.puntonet.ec",
-        "estado": "INACTIVE",
+        "estado": "ACTIVE",
         "departamento": "B2",
         "cargo": "B2",
         "nivel_cargo": "B2",
@@ -15,7 +15,7 @@
     {
         "nombre": "TEST-2",
         "email": "test4@gye.puntonet.ec",
-        "estado": "INACTIVE",
+        "estado": "ACTIVE",
         "departamento": "FUSAGASUGA",
         "cargo": "PRUEBAS-3",
         "nivel_cargo": "101A",
