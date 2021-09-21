@@ -2,13 +2,13 @@
   "empleados":[
 
     {
-        "nombre": "",
+        "nombre": "TEST-1",
         "email": "test3@gye.puntonet.ec",
         "estado": "ACTIVE",
         "departamento": "B2",
         "cargo": "B2",
         "nivel_cargo": "B2",
-        "identificacion": "",
+        "identificacion": "20000036",
         "sede": "FUSAGASUGA",
         "email_jefe": "pruebaskandia3@skandia.com"
     },
@@ -19,7 +19,7 @@
         "departamento": "FUSAGASUGA",
         "cargo": "PRUEBAS-3",
         "nivel_cargo": "101A",
-        "identificacion": "",
+        "identificacion": "20000037",
         "sede": "FUSAGASUGA",
         "email_jefe": "pruebaskandia3@skandia.com"
     },
