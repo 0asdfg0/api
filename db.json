@@ -3,14 +3,14 @@
 
     {
         "nombre": "TEST-NICO",
-        "email": "pruebaskandia10@skandia.com",
+        "email": "test1@gye.puntonet.ec",
         "estado": "ACTIVE",
         "departamento": "B22",
         "cargo": "QUALITY",
         "nivel_cargo": "B22",
         "identificacion": "30000036",
         "sede": "FUSAGASUGA",
-        "email_jefe": "pruebaskandia3@skandia.com"
+        "email_jefe": "pruebaskandia3@skandia."
     },
     {
         "nombre": "TEST-2",
