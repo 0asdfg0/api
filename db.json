@@ -2,15 +2,15 @@
   "empleados":[
 
     {
-        "nombre": "Prueba Skandia 1-TEST-",
-        "email": "pruebaskandia1@skandia.com",
+        "nombre": "TEST-1",
+        "email": "test4@gye.puntonet.ec",
         "estado": "ACTIVE",
         "departamento": "B22",
         "cargo": "QUALITY",
         "nivel_cargo": "B22",
         "identificacion": "20000036",
         "sede": "FUSAGASUGA",
-        "email_jefe": "pruebaskandia3@skandia.com"
+        "email_jefe": "pruebaskandia3skandia.com"
     },
     {
         "nombre": "TEST-2",
