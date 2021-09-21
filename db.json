@@ -2,59 +2,59 @@
   "empleados":[
 
     {
-        "nombre": "test-1",
+        "nombre": "TEST-1",
         "email": "test3@gye.puntonet.ec",
         "estado": "ACTIVE",
         "departamento": "B2",
         "cargo": "B2",
         "nivel_cargo": "B2",
-        "identificacion": "100000030",
+        "identificacion": "200000035",
         "sede": "FUSAGASUGA",
-        "email_jefe": ""
+        "email_jefe": "pruebaskandia3@skandia.com"
     },
     {
-        "nombre": "test-2",
+        "nombre": "TEST-2",
         "email": "test4@gye.puntonet.ec",
         "estado": "ACTIVE",
         "departamento": "FUSAGASUGA",
         "cargo": "PRUEBAS-3",
         "nivel_cargo": "101A",
-        "identificacion": "1000000031",
+        "identificacion": "2000000036",
         "sede": "FUSAGASUGA",
-        "email_jefe": ""
+        "email_jefe": "pruebaskandia3@skandia.com"
     },
     {
-        "nombre": "PRUEBAS-3",
+        "nombre": "TEST-3",
         "email": "pruebas4@gye.puntonet.ec",
         "estado": "ACTIVE",
         "departamento": "FUSAGASUGA",
         "cargo": "PRUEBAS-4",
         "nivel_cargo": "102A",
-        "identificacion": "1000000032",
+        "identificacion": "2000000037",
         "sede": "FUSAGASUGA",
-        "email_jefe": ""
+        "email_jefe": "pruebaskandia3@skandia.com"
     },
     {
-        "nombre": "PRUEBAS-4",
+        "nombre": "TEST-4",
         "email": "pruebas5@gye.puntonet.ec",
         "estado": "ACTIVE",
         "departamento": "VENTAS CORPORATIVAS",
         "cargo": "PRUEBAS-5",
         "nivel_cargo": "6B",
-        "identificacion": "100000033",
+        "identificacion": "200000038",
         "sede": "GUAYAQUIL",
-        "email_jefe": ""
+        "email_jefe": "pruebaskandia3@skandia.com"
     },
     {
-        "nombre": "Pruebas-5",
+        "nombre": "TEST-5",
         "email": "prueba6@cue.puntonet.ec",
         "estado": "ACTIVE",
         "departamento": "OPERACIONES MASIVAS",
         "cargo": "TECNICO DE INSTALACION MASIVA",
         "nivel_cargo": "7B",
-        "identificacion": "100000034",
+        "identificacion": "200000039",
         "sede": "CUENCA",
-        "email_jefe": ""
+        "email_jefe": "pruebaskandia3@skandia.com"
     },
     {
         "nombre": "ALAVA DELGADO BEATRIZ VIVIANA",
