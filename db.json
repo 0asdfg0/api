@@ -2,13 +2,13 @@
   "empleados":[
 
     {
-        "nombre": "TEST-NICO",
-        "email": "prueba@prueba.com",
+        "nombre": "TEST-6",
+        "email": "pruebaskandia11@skandia.com",
         "estado": "ACTIVE",
         "departamento": "B22",
         "cargo": "QUALITY",
         "nivel_cargo": "B22",
-        "identificacion": "30000036",
+        "identificacion": "40000036",
         "sede": "FUSAGASUGA",
         "email_jefe": "skandia3@skandia.com"
     },
