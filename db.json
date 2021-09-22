@@ -5,12 +5,12 @@
         "nombre": "Mellisa",
         "email": "pruebaskandia12@skandia.com",
         "estado": "ACTIVE",
-        "departamento": "",
-        "cargo": "",
-        "nivel_cargo": "",
-        "identificacion": "",
-        "sede": "",
-        "email_jefe": ""
+        "departamento": "PRUEBA-1",
+        "cargo": "PRUEBA-2",
+        "nivel_cargo": "PRUEBA-3",
+        "identificacion": "123456789",
+        "sede": "PRUEBA-4",
+        "email_jefe": "pruebaskandia3@skandia.com"
     },
 
     {
