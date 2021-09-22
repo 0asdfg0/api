@@ -2,9 +2,9 @@
   "empleados":[
     
       {
-        "nombre": "",
+        "nombre": "Mellisa",
         "email": "pruebaskandia12@skandia.com",
-        "estado": "",
+        "estado": "ACTIVE",
         "departamento": "",
         "cargo": "",
         "nivel_cargo": "",
