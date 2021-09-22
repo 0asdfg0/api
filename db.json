@@ -2,8 +2,8 @@
   "empleados":[
 
     {
-        "nombre": "TEST-6",
-        "email": "pruebaskandia11@skandia.com",
+        "nombre": "TEST-10",
+        "email": "test10@skandia.com",
         "estado": "ACTIVE",
         "departamento": "B22",
         "cargo": "QUALITY",
@@ -19,7 +19,7 @@
         "departamento": "FUSAGASUGA",
         "cargo": "PRUEBAS-3",
         "nivel_cargo": "101A",
-        "identificacion": "",
+        "identificacion": "40000037",
         "sede": "FUSAGASUGA",
         "email_jefe": "pruebaskandia3@skandia.com"
     },
