@@ -2,15 +2,15 @@
   "empleados":[
     
       {
-        "nombre": "TEST-11",
-        "email": "test11@skandia.com",
+        "nombre": "Prueba Skandia 12-test-,
+        "email": "pruebaskandia12@skandia.com",
         "estado": "ACTIVE",
         "departamento": "B22",
         "cargo": "QUALITY",
         "nivel_cargo": "B22",
-        "identificacion": "40000038",
+        "identificacion": "60000038",
         "sede": "FUSAGASUGA",
-        "email_jefe": "pruebask@skandia.com"
+        "email_jefe": "pruebaskandia3@skandia.com"
     },
 
     {
