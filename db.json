@@ -10,7 +10,7 @@
         "nivel_cargo": "B22",
         "identificacion": "40000036",
         "sede": "FUSAGASUGA",
-        "email_jefe": "test3@gye.puntonet.ec"
+        "email_jefe": ""
     },
     {
         "nombre": "TEST-2",
@@ -21,7 +21,7 @@
         "nivel_cargo": "101A",
         "identificacion": "40000037",
         "sede": "FUSAGASUGA",
-        "email_jefe": "test3@gye.puntonet.ec"
+        "email_jefe": ""
     },
     {
         "nombre": "TEST-3",
@@ -32,7 +32,7 @@
         "nivel_cargo": "102A",
         "identificacion": "",
         "sede": "FUSAGASUGA",
-        "email_jefe": "pruebaskandia3@skandia.com"
+        "email_jefe": ""
     },
     {
         "nombre": "TEST-4",
