@@ -20,7 +20,7 @@
         "departamento": "B22",
         "cargo": "QUALITY",
         "nivel_cargo": "B22",
-        "identificacion": "40000036",
+        "identificacion": "",
         "sede": "FUSAGASUGA",
         "email_jefe": "pruebask@skandia.com"
     },
@@ -31,7 +31,7 @@
         "departamento": "FUSAGASUGA",
         "cargo": "PRUEBAS-3",
         "nivel_cargo": "101A",
-        "identificacion": "50000037",
+        "identificacion": "",
         "sede": "FUSAGASUGA",
         "email_jefe": "pruebask@skandia.com"
     },
