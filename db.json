@@ -9,8 +9,8 @@
         "cargo": "Vendedor Zona Sur",
         "nivel_cargo": "PRUEBA-AB",
         "identificacion": "10000001",
-        "sede": "",
-        "email_jefe": "pruebaskandia3@skandiacom"
+        "sede": "COLOMBIA",
+        "email_jefe": ""
     },
 
     {
@@ -21,8 +21,8 @@
         "cargo": "Vendedor Zona Sur",
         "nivel_cargo": "PRUEBA-AB",
         "identificacion": "10000002",
-        "sede": "",
-        "email_jefe": "pruebaskandia3@skandiacom"
+        "sede": "COLOMBIA",
+        "email_jefe": ""
     },
     {
         "nombre": "TEST-3",
@@ -43,8 +43,8 @@
         "cargo": "Vendedor Zona Sur",
         "nivel_cargo": "PRUEBA-AB",
         "identificacion": "10000004",
-        "sede": "",
-        "email_jefe": "pruebaskandia3@skandiacom"
+        "sede": "COLOMBIA",
+        "email_jefe": ""
     },
     {
         "nombre": "TEST-5",
@@ -54,8 +54,8 @@
         "cargo": "Vendedor Zona Sur",
         "nivel_cargo": "PRUEBA-AB",
         "identificacion": "10000005",
-        "sede": "",
-        "email_jefe": "pruebaskandia3@skandiacom"
+        "sede": "COLOMBIA",
+        "email_jefe": ""
     },
     {
         "nombre": "TEST-6",
@@ -65,8 +65,8 @@
         "cargo": "Vendedor Zona Sur",
         "nivel_cargo": "PRUEBA-AB",
         "identificacion": "10000006",
-        "sede": "",
-        "email_jefe": "pruebaskandia3@skandiacom"
+        "sede": "COLOMBIA",
+        "email_jefe": ""
     },
     {
         "nombre": "ALAVA DELGADO BEATRIZ VIVIANA",
@@ -76,8 +76,8 @@
         "cargo": "EJECUTIVO DE CUENTAS CLAVES",
         "nivel_cargo": "6A",
         "identificacion": "1717905804",
-        "sede": "MANTA",
-        "email_jefe": "pruebaskandia3@skandia.com"
+        "sede": "COLOMBIA",
+        "email_jefe": ""
     },
     {
         "nombre": "AMBI AREQUIPA EDUARDO ANIBAL",
