@@ -9,8 +9,8 @@
         "cargo": "Vendedor Zona Sur",
         "nivel_cargo": "PRUEBA-AB",
         "identificacion": "10000001",
-        "sede": "COLOMBIA",
-        "email_jefe": ""
+        "sede": "",
+        "email_jefe": "pruebaskandia3@skandia.com"
     },
 
     {
@@ -21,8 +21,8 @@
         "cargo": "Vendedor Zona Sur",
         "nivel_cargo": "PRUEBA-AB",
         "identificacion": "10000002",
-        "sede": "COLOMBIA",
-        "email_jefe": ""
+        "sede": ",
+        "email_jefe": "pruebaskandia3@skandia.com"
     },
     {
         "nombre": "TEST-3",
@@ -44,7 +44,7 @@
         "nivel_cargo": "PRUEBA-AB",
         "identificacion": "10000004",
         "sede": "COLOMBIA",
-        "email_jefe": ""
+        "email_jefe": "pruebaskandia3@skandia.com"
     },
     {
         "nombre": "TEST-5",
@@ -55,7 +55,7 @@
         "nivel_cargo": "PRUEBA-AB",
         "identificacion": "10000005",
         "sede": "COLOMBIA",
-        "email_jefe": ""
+        "email_jefe": "pruebaskandia3@skandia.com"
     },
     {
         "nombre": "TEST-6",
@@ -66,7 +66,7 @@
         "nivel_cargo": "PRUEBA-AB",
         "identificacion": "10000006",
         "sede": "COLOMBIA",
-        "email_jefe": ""
+        "email_jefe": "pruebaskandia3@skandia.com"
     },
     {
         "nombre": "ALAVA DELGADO BEATRIZ VIVIANA",
@@ -77,7 +77,7 @@
         "nivel_cargo": "6A",
         "identificacion": "1717905804",
         "sede": "COLOMBIA",
-        "email_jefe": ""
+        "email_jefe": "pruebaskandia3@skandia.com"
     },
     {
         "nombre": "AMBI AREQUIPA EDUARDO ANIBAL",
