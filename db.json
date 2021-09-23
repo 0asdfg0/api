@@ -8,7 +8,7 @@
         "departamento": "PRUEBAS",
         "cargo": "PRUEBA-2",
         "nivel_cargo": "PRUEBA-3",
-        "identificacion": "",
+        "identificacion": "10000001",
         "sede": "PRUEBA-4",
         "email_jefe": "pruebaskandia3@skandia.com"
     },
@@ -20,7 +20,7 @@
         "departamento": "B22",
         "cargo": "QUALITY",
         "nivel_cargo": "B22",
-        "identificacion": "",
+        "identificacion": "10000002",
         "sede": "FUSAGASUGA",
         "email_jefe": "pruebaskandia12@skandia.com"
     },
@@ -31,7 +31,7 @@
         "departamento": "FUSAGASUGA",
         "cargo": "PRUEBAS-3",
         "nivel_cargo": "101A",
-        "identificacion": "",
+        "identificacion": "10000003",
         "sede": "FUSAGASUGA",
         "email_jefe": "pruebaskandia12@skandia.com"
     },
@@ -42,7 +42,7 @@
         "departamento": "FUSAGASUGA",
         "cargo": "PRUEBAS-4",
         "nivel_cargo": "102A",
-        "identificacion": "",
+        "identificacion": "10000004",
         "sede": "FUSAGASUGA",
         "email_jefe": "pruebaskandia12@skandia.com"
     },
@@ -53,7 +53,7 @@
         "departamento": "VENTAS CORPORATIVAS",
         "cargo": "PRUEBAS-5",
         "nivel_cargo": "6B",
-        "identificacion": "",
+        "identificacion": "10000005",
         "sede": "GUAYAQUIL",
         "email_jefe": "pruebaskandia12@skandia.com"
     },
@@ -64,7 +64,7 @@
         "departamento": "OPERACIONES MASIVAS",
         "cargo": "TECNICO DE INSTALACION MASIVA",
         "nivel_cargo": "7B",
-        "identificacion": "",
+        "identificacion": "10000006",
         "sede": "CUENCA",
         "email_jefe": "pruebaskandia12@skandia.com"
     },
