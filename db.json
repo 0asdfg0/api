@@ -7,7 +7,7 @@
         "estado": "ACTIVE",
         "departamento": "B22",
         "cargo": "PRUEBA-2",
-        "nivel_cargo": "PRUEBA-3",
+        "nivel_cargo": "",
         "identificacion": "10000001",
         "sede": "PRUEBA-4",
         "email_jefe": "pruebaskandia3@skandia.com"
@@ -19,7 +19,7 @@
         "estado": "ACTIVE",
         "departamento": "B22",
         "cargo": "QUALITY",
-        "nivel_cargo": "B22",
+        "nivel_cargo": "",
         "identificacion": "10000002",
         "sede": "FUSAGASUGA",
         "email_jefe": "pruebaskandia3@skandia.com"
@@ -30,7 +30,7 @@
         "estado": "ACTIVE",
         "departamento": "B22",
         "cargo": "PRUEBAS-3",
-        "nivel_cargo": "101A",
+        "nivel_cargo": "",
         "identificacion": "10000003",
         "sede": "FUSAGASUGA",
         "email_jefe": "pruebaskandia3@skandia.com"
@@ -41,7 +41,7 @@
         "estado": "ACTIVE",
         "departamento": "B22",
         "cargo": "PRUEBAS-4",
-        "nivel_cargo": "102A",
+        "nivel_cargo": "",
         "identificacion": "10000004",
         "sede": "FUSAGASUGA",
         "email_jefe": "pruebaskandia3@skandia.com"
@@ -52,7 +52,7 @@
         "estado": "ACTIVE",
         "departamento": "B22",
         "cargo": "PRUEBAS-5",
-        "nivel_cargo": "6B",
+        "nivel_cargo": "",
         "identificacion": "10000005",
         "sede": "GUAYAQUIL",
         "email_jefe": "pruebaskandia3@skandia.com"
@@ -63,7 +63,7 @@
         "estado": "ACTIVE",
         "departamento": "B22",
         "cargo": "TECNICO DE INSTALACION MASIVA",
-        "nivel_cargo": "7B",
+        "nivel_cargo": "",
         "identificacion": "10000006",
         "sede": "CUENCA",
         "email_jefe": "pruebaskandia3@skandia.com"
