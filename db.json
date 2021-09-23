@@ -4,7 +4,7 @@
       {
         "nombre": "TEST-1",
         "email": "pruebaskandia12@skandia.com",
-        "estado": "",
+        "estado": "ACTIVO",
         "departamento": "BOGOTA",
         "cargo": "Vendedor Zona Sur",
         "nivel_cargo": "ACTIVO",
