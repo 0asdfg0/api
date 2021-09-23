@@ -10,7 +10,7 @@
         "nivel_cargo": "PRUEBA-3",
         "identificacion": "10000001",
         "sede": "PRUEBA-4",
-        "email_jefe": ""
+        "email_jefe": "pruebaskandia12@skandia.com"
     },
 
     {
@@ -22,7 +22,7 @@
         "nivel_cargo": "B22",
         "identificacion": "10000002",
         "sede": "FUSAGASUGA",
-        "email_jefe": ""
+        "email_jefe": "test10@skandia.com"
     },
     {
         "nombre": "TEST-2",
@@ -33,7 +33,7 @@
         "nivel_cargo": "101A",
         "identificacion": "10000003",
         "sede": "FUSAGASUGA",
-        "email_jefe": ""
+        "email_jefe": "test4@gye.puntonet.ec"
     },
     {
         "nombre": "TEST-3",
@@ -44,7 +44,7 @@
         "nivel_cargo": "102A",
         "identificacion": "10000004",
         "sede": "FUSAGASUGA",
-        "email_jefe": ""
+        "email_jefe": "pruebas4@gye.puntonet.ec"
     },
     {
         "nombre": "TEST-4",
@@ -55,7 +55,7 @@
         "nivel_cargo": "6B",
         "identificacion": "10000005",
         "sede": "GUAYAQUIL",
-        "email_jefe": ""
+        "email_jefe": "pruebas5@gye.puntonet.ec"
     },
     {
         "nombre": "TEST-5",
@@ -66,7 +66,7 @@
         "nivel_cargo": "7B",
         "identificacion": "10000006",
         "sede": "CUENCA",
-        "email_jefe": ""
+        "email_jefe": "prueba6@cue.puntonet.ec"
     },
     {
         "nombre": "ALAVA DELGADO BEATRIZ VIVIANA",
