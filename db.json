@@ -7,7 +7,7 @@
         "estado": "ACTIVE",
         "departamento": "B22",
         "cargo": "PRUEBA-2",
-        "nivel_cargo": "ANALISTA DE CONTRATACION ADMINISTRATIVA II",
+        "nivel_cargo": "",
         "identificacion": "10000001",
         "sede": "PRUEBA-4",
         "email_jefe": "pruebaskandia3@skandia.com"
@@ -19,7 +19,7 @@
         "estado": "ACTIVE",
         "departamento": "B22",
         "cargo": "QUALITY",
-        "nivel_cargo": "ANALISTA DE CONTRATACION ADMINISTRATIVA II",
+        "nivel_cargo": "",
         "identificacion": "10000002",
         "sede": "FUSAGASUGA",
         "email_jefe": "pruebaskandia3@skandia.com"
@@ -30,7 +30,7 @@
         "estado": "ACTIVE",
         "departamento": "B22",
         "cargo": "PRUEBAS-3",
-        "nivel_cargo": "ANALISTA DE CONTRATACION ADMINISTRATIVA II",
+        "nivel_cargo": "",
         "identificacion": "10000003",
         "sede": "FUSAGASUGA",
         "email_jefe": "pruebaskandia3@skandia.com"
