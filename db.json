@@ -7,7 +7,7 @@
         "estado": "",
         "departamento": "BOGOTA",
         "cargo": "Vendedor Zona Sur",
-        "nivel_cargo": "",
+        "nivel_cargo": "ACTIVO",
         "identificacion": "10000001",
         "sede": "COLOMBIA",
         "email_jefe": "pruebaskandia3@skandia.com"
@@ -16,7 +16,7 @@
     {
         "nombre": "TEST-2",
         "email": "test10@skandia.com",
-        "estado": "",
+        "estado": "ACTIVO",
         "departamento": "BOGOTA",
         "cargo": "Vendedor Zona Sur",
         "nivel_cargo": "",
@@ -27,7 +27,7 @@
     {
         "nombre": "TEST-3",
         "email": "test4@gye.puntonet.ec",
-        "estado": "",
+        "estado": "ACTIVO",
         "departamento": "BOGOTA",
         "cargo": "Vendedor Zona Sur",
         "nivel_cargo": "",
@@ -38,7 +38,7 @@
     {
         "nombre": "TEST-4",
         "email": "pruebas4@gye.puntonet.ec",
-        "estado": "",
+        "estado": "ACTIVO",
         "departamento": "BOGOTA",
         "cargo": "Vendedor Zona Sur",
         "nivel_cargo": "",
@@ -49,7 +49,7 @@
     {
         "nombre": "TEST-5",
         "email": "pruebas5@gye.puntonet.ec",
-        "estado": "",
+        "estado": "ACTIVO",
         "departamento": "BOGOTA",
         "cargo": "Vendedor Zona Sur",
         "nivel_cargo": "",
@@ -60,7 +60,7 @@
     {
         "nombre": "TEST-6",
         "email": "prueba6@cue.puntonet.ec",
-        "estado": "",
+        "estado": "ACTIVO",
         "departamento": "BOGOTA",
         "cargo": "Vendedor Zona Sur",
         "nivel_cargo": "",
