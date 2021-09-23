@@ -9,7 +9,7 @@
         "cargo": "Vendedor Zona Sur",
         "nivel_cargo": "PRUEBA-AB",
         "identificacion": "10000001",
-        "sede": "COLOMBIA",
+        "sede": "",
         "email_jefe": "pruebaskandia3@skandiacom"
     },
 
@@ -21,7 +21,7 @@
         "cargo": "Vendedor Zona Sur",
         "nivel_cargo": "PRUEBA-AB",
         "identificacion": "10000002",
-        "sede": "COLOMBIA",
+        "sede": "",
         "email_jefe": "pruebaskandia3@skandiacom"
     },
     {
@@ -32,7 +32,7 @@
         "cargo": "Vendedor Zona Sur",
         "nivel_cargo": "PRUEBA-AB",
         "identificacion": "10000003",
-        "sede": "COLOMBIA",
+        "sede": "",
         "email_jefe": "pruebaskandia3@skandiacom"
     },
     {
@@ -43,7 +43,7 @@
         "cargo": "Vendedor Zona Sur",
         "nivel_cargo": "PRUEBA-AB",
         "identificacion": "10000004",
-        "sede": "COLOMBIA",
+        "sede": "",
         "email_jefe": "pruebaskandia3@skandiacom"
     },
     {
@@ -54,7 +54,7 @@
         "cargo": "Vendedor Zona Sur",
         "nivel_cargo": "PRUEBA-AB",
         "identificacion": "10000005",
-        "sede": "COLOMBIA",
+        "sede": "",
         "email_jefe": "pruebaskandia3@skandiacom"
     },
     {
@@ -65,7 +65,7 @@
         "cargo": "Vendedor Zona Sur",
         "nivel_cargo": "PRUEBA-AB",
         "identificacion": "10000006",
-        "sede": "COLOMBIA",
+        "sede": "",
         "email_jefe": "pruebaskandia3@skandiacom"
     },
     {
