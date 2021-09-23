@@ -7,10 +7,10 @@
         "estado": "ACTIVO",
         "departamento": "BOGOTA",
         "cargo": "Vendedor Zona Sur",
-        "nivel_cargo": "ACTIVO",
+        "nivel_cargo": "PRUEBA-AB",
         "identificacion": "10000001",
         "sede": "COLOMBIA",
-        "email_jefe": "pruebaskandiaSSS@3skandiacom"
+        "email_jefe": "pruebaskandia3@skandiacom"
     },
 
     {
@@ -19,10 +19,10 @@
         "estado": "ACTIVO",
         "departamento": "BOGOTA",
         "cargo": "Vendedor Zona Sur",
-        "nivel_cargo": "",
+        "nivel_cargo": "PRUEBA-AB",
         "identificacion": "10000002",
         "sede": "COLOMBIA",
-        "email_jefe": "pruebaskandiaSSS3@skandiacom"
+        "email_jefe": "pruebaskandia3@skandiacom"
     },
     {
         "nombre": "TEST-3",
@@ -30,10 +30,10 @@
         "estado": "ACTIVO",
         "departamento": "BOGOTA",
         "cargo": "Vendedor Zona Sur",
-        "nivel_cargo": "",
+        "nivel_cargo": "PRUEBA-AB",
         "identificacion": "10000003",
         "sede": "COLOMBIA",
-        "email_jefe": "pruebaskandiaSS3@skandiacom"
+        "email_jefe": "pruebaskandia3@skandiacom"
     },
     {
         "nombre": "TEST-4",
@@ -41,10 +41,10 @@
         "estado": "ACTIVO",
         "departamento": "BOGOTA",
         "cargo": "Vendedor Zona Sur",
-        "nivel_cargo": "",
+        "nivel_cargo": "PRUEBA-AB",
         "identificacion": "10000004",
         "sede": "COLOMBIA",
-        "email_jefe": "pruebaskandia3SS@skandiacom"
+        "email_jefe": "pruebaskandia3@skandiacom"
     },
     {
         "nombre": "TEST-5",
@@ -52,10 +52,10 @@
         "estado": "ACTIVO",
         "departamento": "BOGOTA",
         "cargo": "Vendedor Zona Sur",
-        "nivel_cargo": "",
+        "nivel_cargo": "PRUEBA-AB",
         "identificacion": "10000005",
         "sede": "COLOMBIA",
-        "email_jefe": "pruebaskandia3SS@skandiacom"
+        "email_jefe": "pruebaskandia3@skandiacom"
     },
     {
         "nombre": "TEST-6",
@@ -63,10 +63,10 @@
         "estado": "ACTIVO",
         "departamento": "BOGOTA",
         "cargo": "Vendedor Zona Sur",
-        "nivel_cargo": "",
+        "nivel_cargo": "PRUEBA-AB",
         "identificacion": "10000006",
         "sede": "COLOMBIA",
-        "email_jefe": "pruebaskandia3SS@skandiacom"
+        "email_jefe": "pruebaskandia3@skandiacom"
     },
     {
         "nombre": "ALAVA DELGADO BEATRIZ VIVIANA",
