@@ -5,35 +5,35 @@
         "nombre": "TEST-1",
         "email": "pruebaskandia12@skandia.com",
         "estado": "ACTIVE",
-        "departamento": "",
-        "cargo": "",
-        "nivel_cargo": "",
-        "identificacion": "",
-        "sede": "",
-        "email_jefe": ""
+        "departamento": "B22",
+        "cargo": "Vendedor Zona Sur",
+        "nivel_cargo": "ANALISTA DE CONTRATACION ADMINISTRATIVA II",
+        "identificacion": "10000001",
+        "sede": "COLOMBIA",
+        "email_jefe": "pruebaskandia3@skandia.com"
     },
 
     {
         "nombre": "TEST-2",
         "email": "test10@skandia.com",
         "estado": "ACTIVE",
-        "departamento": "",
-        "cargo": "",
-        "nivel_cargo": "",
-        "identificacion": "",
-        "sede": "",
-        "email_jefe": ""
+        "departamento": "B22",
+        "cargo": "Vendedor Zona Sur",
+        "nivel_cargo": "ANALISTA DE CONTRATACION ADMINISTRATIVA II",
+        "identificacion": "10000002",
+        "sede": "COLOMBIA",
+        "email_jefe": "pruebaskandia3@skandia.com"
     },
     {
         "nombre": "TEST-3",
         "email": "test4@gye.puntonet.ec",
         "estado": "ACTIVE",
-        "departamento": "",
-        "cargo": "",
-        "nivel_cargo": "",
-        "identificacion": "",
-        "sede": "",
-        "email_jefe": ""
+        "departamento": "B22",
+        "cargo": "Vendedor Zona Sur",
+        "nivel_cargo": "ANALISTA DE CONTRATACION ADMINISTRATIVA II",
+        "identificacion": "10000003",
+        "sede": "COLOMBIA",
+        "email_jefe": "pruebaskandia3@skandia.com"
     },
     {
         "nombre": "TEST-4",
