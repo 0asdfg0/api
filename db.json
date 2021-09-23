@@ -4,7 +4,7 @@
       {
         "nombre": "Mellisa-pruebas-1",
         "email": "pruebaskandia12@skandia.com",
-        "estado": "ACTIVE",
+        "estado": "",
         "departamento": "PRUEBAS",
         "cargo": "PRUEBA-2",
         "nivel_cargo": "PRUEBA-3",
@@ -16,7 +16,7 @@
     {
         "nombre": "TEST-10",
         "email": "test10@skandia.com",
-        "estado": "ACTIVE",
+        "estado": "",
         "departamento": "B22",
         "cargo": "QUALITY",
         "nivel_cargo": "B22",
@@ -27,7 +27,7 @@
     {
         "nombre": "TEST-2",
         "email": "test4@gye.puntonet.ec",
-        "estado": "ACTIVE",
+        "estado": "",
         "departamento": "FUSAGASUGA",
         "cargo": "PRUEBAS-3",
         "nivel_cargo": "101A",
@@ -38,7 +38,7 @@
     {
         "nombre": "TEST-3",
         "email": "pruebas4@gye.puntonet.ec",
-        "estado": "ACTIVE",
+        "estado": "",
         "departamento": "FUSAGASUGA",
         "cargo": "PRUEBAS-4",
         "nivel_cargo": "102A",
@@ -49,7 +49,7 @@
     {
         "nombre": "TEST-4",
         "email": "pruebas5@gye.puntonet.ec",
-        "estado": "ACTIVE",
+        "estado": "",
         "departamento": "VENTAS CORPORATIVAS",
         "cargo": "PRUEBAS-5",
         "nivel_cargo": "6B",
@@ -60,7 +60,7 @@
     {
         "nombre": "TEST-5",
         "email": "prueba6@cue.puntonet.ec",
-        "estado": "ACTIVE",
+        "estado": "",
         "departamento": "OPERACIONES MASIVAS",
         "cargo": "TECNICO DE INSTALACION MASIVA",
         "nivel_cargo": "7B",
