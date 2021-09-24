@@ -2,13 +2,13 @@
   "empleados":[
     
       {
-        "nombre": "Prueba Skandia 19",
-        "email": "pruebaskandia19@skandia.com",
+        "nombre": "Carolina",
+        "email": "caro@prueba.com",
         "estado": "ACTIVE",
         "departamento": "BOGOTA",
         "cargo": "Vendedor Zona Sur",
         "nivel_cargo": "PRUEBA-AB",
-        "identificacion": "10000001",
+        "identificacion": "10000123",
         "sede": "COLOMBIA",
         "email_jefe": "pruebaskandia3@skandia.com"
     },
