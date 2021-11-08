@@ -3,7 +3,7 @@
     
       {
         "nombre": "Carolina Prueba",
-        "email": "",
+        "email": "caro@prueba.com",
         "estado": "ACTIVE",
         "departamento": "CUNDINAMARCA",
         "cargo": "Vendedor Zona Sur",
@@ -14,7 +14,7 @@
     },
      {
         "nombre": "palmex",
-        "email": "",
+        "email": "palmex@palmex.com",
         "estado": "ACTIVE",
         "departamento": "BOGOTA",
         "cargo": "Vendedor Zona Sur",
