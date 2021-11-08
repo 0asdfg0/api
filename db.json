@@ -7,7 +7,7 @@
         "estado": "ACTIVE",
         "departamento": "CUNDINAMARCA",
         "cargo": "Vendedor Zona Sur",
-        "nivel_cargo": "PRUEBA-AB",
+        "nivel_cargo": "DELEITE",
         "identificacion": "10000123",
         "sede": "COLOMBIA",
         "email_jefe": "pruebaskandia3@skandia.com"
@@ -18,7 +18,7 @@
         "estado": "ACTIVE",
         "departamento": "BOGOTA",
         "cargo": "Vendedor Zona Sur",
-        "nivel_cargo": "PRUEBA-AB",
+        "nivel_cargo": "DELEITE",
         "identificacion": "210000123",
         "sede": "COLOMBIA",
         "email_jefe": "caro@prueba.com"
@@ -29,7 +29,7 @@
         "estado": "ACTIVE",
         "departamento": "BOGOTA",
         "cargo": "Vendedor Zona Occidente",
-        "nivel_cargo": "Logi-1",
+        "nivel_cargo": "DELEITE",
         "identificacion": "21000011",
         "sede": "COLOMBIA",
         "email_jefe": "caro@prueba.com"
@@ -40,7 +40,7 @@
         "estado": "ACTIVE",
         "departamento": "Bogota",
         "cargo": "Vendedor Zona Occidente",
-        "nivel_cargo": "Logi-1",
+        "nivel_cargo": "DELEITE",
         "identificacion": "21000012",
         "sede": "COLOMBIA",
         "email_jefe": "caro@prueba.com"
@@ -51,7 +51,7 @@
         "estado": "ACTIVE",
         "departamento": "BOGOTA",
         "cargo": "Vendedor Zona Occidente",
-        "nivel_cargo": "PRUEBA-AB",
+        "nivel_cargo": "DELEITE",
         "identificacion": "21000013",
         "sede": "COLOMBIA",
         "email_jefe": "caro@prueba.com"
@@ -62,7 +62,7 @@
         "estado": "ACTIVE",
         "departamento": "BOGOTA",
         "cargo": "Vendedor Zona Occidente",
-        "nivel_cargo": "PRUEBA-AB",
+        "nivel_cargo": "DELEITE",
         "identificacion": "21000014",
         "sede": "COLOMBIA",
         "email_jefe": "caro@prueba.com"
@@ -73,7 +73,7 @@
         "estado": "ACTIVE",
         "departamento": "BOGOTA",
         "cargo": "Vendedor Zona Occidente",
-        "nivel_cargo": "PRUEBA-AB",
+        "nivel_cargo": "DELEITE",
         "identificacion": "21000015",
         "sede": "COLOMBIA",
         "email_jefe": "caro@prueba.com"
