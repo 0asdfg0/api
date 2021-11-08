@@ -4,7 +4,7 @@
       {
         "nombre": "Carolina Prueba",
         "email": "caro@prueba.com",
-        "estado": "INACTIVE",
+        "estado": "inactive",
         "departamento": "CUNDINAMARCA",
         "cargo": "Vendedor Zona Sur",
         "nivel_cargo": "DELEITE",
@@ -15,7 +15,7 @@
      {
         "nombre": "palmex",
         "email": "palmex@palmex.com",
-        "estado": "INCTIVE",
+        "estado": "inactive",
         "departamento": "BOGOTA",
         "cargo": "Vendedor Zona Sur",
         "nivel_cargo": "DELEITE",
