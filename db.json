@@ -11,6 +11,17 @@
         "identificacion": "10000123",
         "sede": "COLOMBIA",
         "email_jefe": "pruebaskandia3@skandia.com"
+    },
+     {
+        "nombre": "palmex",
+        "email": "palmex@palmex.com",
+        "estado": "ACTIVE",
+        "departamento": "BOGOTA",
+        "cargo": "Vendedor Zona Sur",
+        "nivel_cargo": "PRUEBA-AB",
+        "identificacion": "10000123",
+        "sede": "COLOMBIA",
+        "email_jefe": "palmex@palmexboss.com"
     }
   ]
 }
