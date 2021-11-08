@@ -2,10 +2,10 @@
   "empleados":[
     
       {
-        "nombre": "Carolina",
+        "nombre": "Carolina Prueba",
         "email": "caro@prueba.com",
         "estado": "ACTIVE",
-        "departamento": "BOGOTA",
+        "departamento": "CUNDINAMARCA",
         "cargo": "Vendedor Zona Sur",
         "nivel_cargo": "PRUEBA-AB",
         "identificacion": "10000123",
