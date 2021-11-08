@@ -22,6 +22,62 @@
         "identificacion": "10000123",
         "sede": "COLOMBIA",
         "email_jefe": "palmex@palmexboss.com"
+    },
+     {
+        "nombre": "Piazza-1",
+        "email": "piazza1@palmex.com",
+        "estado": "ACTIVE",
+        "departamento": "FUSAGASUGA",
+        "cargo": "Vendedor Zona Occidente",
+        "nivel_cargo": "Logi-1",
+        "identificacion": "01000011",
+        "sede": "COLOMBIA",
+        "email_jefe": "palmex@palmexboss.com"
+    },
+     {
+        "nombre": "Piazza-2",
+        "email": "piazza2@palmex.com",
+        "estado": "ACTIVE",
+        "departamento": "ESPINAL",
+        "cargo": "Cobrador",
+        "nivel_cargo": "Logi-1",
+        "identificacion": "01000012",
+        "sede": "COLOMBIA",
+        "email_jefe": "palmex@palmexboss.com"
+    },
+     {
+        "nombre": "Piazza-3",
+        "email": "piazza3@palmex.com",
+        "estado": "ACTIVE",
+        "departamento": "GIRARDOT",
+        "cargo": "Corredor de Bolsa",
+        "nivel_cargo": "PRUEBA-AB",
+        "identificacion": "01000013",
+        "sede": "COLOMBIA",
+        "email_jefe": "palmex@palmexboss.com"
+    },
+     {
+        "nombre": "Piazza-4",
+        "email": "piazza4@palmex.com",
+        "estado": "ACTIVE",
+        "departamento": "MELGAR",
+        "cargo": "Comprador",
+        "nivel_cargo": "PRUEBA-AB",
+        "identificacion": "01000014",
+        "sede": "COLOMBIA",
+        "email_jefe": "palmex@palmexboss.com"
+    },
+     {
+        "nombre": "Piazza-5",
+        "email": "piazza5@palmex.com",
+        "estado": "ACTIVE",
+        "departamento": "ARMENIA",
+        "cargo": "Analista",
+        "nivel_cargo": "PRUEBA-AB",
+        "identificacion": "01000015",
+        "sede": "COLOMBIA",
+        "email_jefe": "palmex@palmexboss.com"
     }
+    
   ]
 }
