@@ -21,7 +21,7 @@
         "nivel_cargo": "PRUEBA-AB",
         "identificacion": "10000123",
         "sede": "COLOMBIA",
-        "email_jefe": "palmex@palmexboss.com"
+        "email_jefe": "caro@prueba.com"
     },
      {
         "nombre": "Piazza-1",
@@ -32,7 +32,7 @@
         "nivel_cargo": "Logi-1",
         "identificacion": "01000011",
         "sede": "COLOMBIA",
-        "email_jefe": "palmex@palmexboss.com"
+        "email_jefe": "caro@prueba.com"
     },
      {
         "nombre": "Piazza-2",
@@ -43,7 +43,7 @@
         "nivel_cargo": "Logi-1",
         "identificacion": "01000012",
         "sede": "COLOMBIA",
-        "email_jefe": "palmex@palmexboss.com"
+        "email_jefe": "caro@prueba.com"
     },
      {
         "nombre": "Piazza-3",
@@ -54,7 +54,7 @@
         "nivel_cargo": "PRUEBA-AB",
         "identificacion": "01000013",
         "sede": "COLOMBIA",
-        "email_jefe": "palmex@palmexboss.com"
+        "email_jefe": "caro@prueba.com"
     },
      {
         "nombre": "Piazza-4",
@@ -65,7 +65,7 @@
         "nivel_cargo": "PRUEBA-AB",
         "identificacion": "01000014",
         "sede": "COLOMBIA",
-        "email_jefe": "palmex@palmexboss.com"
+        "email_jefe": "caro@prueba.com"
     },
      {
         "nombre": "Piazza-5",
@@ -76,7 +76,7 @@
         "nivel_cargo": "PRUEBA-AB",
         "identificacion": "01000015",
         "sede": "COLOMBIA",
-        "email_jefe": "palmex@palmexboss.com"
+        "email_jefe": "caro@prueba.com"
     }
     
   ]
