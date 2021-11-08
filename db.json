@@ -3,7 +3,7 @@
     
       {
         "nombre": "Carolina Prueba",
-        "email": "caroprueba.com",
+        "email": "caro@prueba",
         "estado": "ACTIVE",
         "departamento": "CUNDINAMARCA",
         "cargo": "Vendedor Zona Sur",
@@ -14,7 +14,7 @@
     },
      {
         "nombre": "palmex",
-        "email": "palmexpalmex.com",
+        "email": "palmex@palmex",
         "estado": "ACTIVE",
         "departamento": "BOGOTA",
         "cargo": "Vendedor Zona Sur",
@@ -25,7 +25,7 @@
     },
      {
         "nombre": "Piazza-1",
-        "email": "piazza1palmex.com",
+        "email": "piazza1@palmex",
         "estado": "ACTIVE",
         "departamento": "BOGOTA",
         "cargo": "Vendedor Zona Occidente",
@@ -36,7 +36,7 @@
     },
      {
         "nombre": "Piazza-2",
-        "email": "piazza2palmex.com",
+        "email": "piazza2@palmex",
         "estado": "ACTIVE",
         "departamento": "Bogota",
         "cargo": "Vendedor Zona Occidente",
@@ -47,7 +47,7 @@
     },
      {
         "nombre": "Piazza-3",
-        "email": "piazza3palmex.com",
+        "email": "piazza3@palmex",
         "estado": "ACTIVE",
         "departamento": "BOGOTA",
         "cargo": "Vendedor Zona Occidente",
@@ -58,7 +58,7 @@
     },
      {
         "nombre": "Piazza-4",
-        "email": "piazza4palmex.com",
+        "email": "piazza4@palmex",
         "estado": "ACTIVE",
         "departamento": "BOGOTA",
         "cargo": "Vendedor Zona Occidente",
@@ -69,7 +69,7 @@
     },
      {
         "nombre": "Piazza-5",
-        "email": "piazza5palmex.com",
+        "email": "piazza5@palmex",
         "estado": "ACTIVE",
         "departamento": "BOGOTA",
         "cargo": "Vendedor Zona Occidente",
