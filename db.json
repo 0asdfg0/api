@@ -9,7 +9,7 @@
         "nivel_cargo": "QA",
         "identificacion": "10000123",
         "sede": "BOLIVA",
-        "email_jefe": "nico1@prueba.com"
+        "email_jefe": "11aospina@micompania.com"
     },
     
       {
@@ -21,7 +21,7 @@
         "nivel_cargo": "PRUEBAS",
         "identificacion": "10000123",
         "sede": "COLOMBIA",
-        "email_jefe": "caro@prueba.com"
+        "email_jefe": "11aospina@micompania.com"
     },
      {
         "nombre": "palmex",
@@ -32,7 +32,7 @@
         "nivel_cargo": "PRUEBAS",
         "identificacion": "210000123",
         "sede": "COLOMBIA",
-        "email_jefe": "palmex@palmex.com"
+        "email_jefe": "11aospina@micompania.com"
     },
      {
         "nombre": "Piazza-1",
@@ -43,7 +43,7 @@
         "nivel_cargo": "PRUEBAS",
         "identificacion": "30111111",
         "sede": "Colombia-1A",
-        "email_jefe": "aospina@micompania"
+        "email_jefe": "aospina@micompania.com"
     },
      {
         "nombre": "Piazza-2",
