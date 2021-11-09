@@ -9,7 +9,7 @@
         "nivel_cargo": "QA",
         "identificacion": "10000123",
         "sede": "BOLIVA",
-        "email_jefe": "aospina@micompania.com"
+        "email_jefe": ""
     },
     
       {
@@ -21,7 +21,7 @@
         "nivel_cargo": "PRUEBAS",
         "identificacion": "10000123",
         "sede": "COLOMBIA",
-        "email_jefe": "aospina@micompania.com"
+        "email_jefe": ""
     },
      {
         "nombre": "palmex",
@@ -32,7 +32,7 @@
         "nivel_cargo": "PRUEBAS",
         "identificacion": "210000123",
         "sede": "COLOMBIA",
-        "email_jefe": "aospina@micompania.com"
+        "email_jefe": ""
     },
      {
         "nombre": "Piazza-1",
@@ -43,7 +43,7 @@
         "nivel_cargo": "PRUEBAS",
         "identificacion": "30111111",
         "sede": "Colombia-1A",
-        "email_jefe": "aospina@micompania.com"
+        "email_jefe": "aospinamicompania.com"
     },
      {
         "nombre": "Piazza-2",
@@ -54,7 +54,7 @@
         "nivel_cargo": "DELEITE",
         "identificacion": "30111111",
         "sede": "Colombia-1A",
-        "email_jefe": "aospina@micompania.com"
+        "email_jefe": "aospinamicompania.com"
     },
      {
         "nombre": "Piazza-3",
@@ -65,7 +65,7 @@
         "nivel_cargo": "PRUEBA",
         "identificacion": "30111111",
         "sede":"Colombia-1A",
-        "email_jefe": "aospina@micompania.com"
+        "email_jefe": "aospinamicompania.com"
     },
      {
         "nombre": "Piazza-4",
@@ -76,7 +76,7 @@
         "nivel_cargo": "PRUEBA",
         "identificacion": "30111111",
         "sede": "Colombia-1A",
-        "email_jefe": "aospina@micompania.com"
+        "email_jefe": "aospinamicompania.com"
     },
      {
         "nombre": "Piazza-5",
@@ -87,7 +87,7 @@
         "nivel_cargo": "PRUEBA",
         "identificacion": "30111111",
         "sede": "Colombia-1A",
-        "email_jefe": "aospina@micompania.com"
+        "email_jefe": "aospinamicompania.com"
     }
     
   ]
