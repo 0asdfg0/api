@@ -1,7 +1,7 @@
 {
   "empleados":[
     {
-        "nombre": "",
+        "nombre": "nico",
         "email": "nico1@prueba.com",
         "estado":"ACTIVE",
         "departamento": "FUSAGASUGA",
@@ -9,11 +9,11 @@
         "nivel_cargo": "QA",
         "identificacion": "10000123",
         "sede": "BOLIVA",
-        "email_jefe": "pruebaaospina@micompania.com"
+        "email_jefe": "aospina@micompania.com"
     },
     
       {
-        "nombre": "",
+        "nombre": "caro prueba",
         "email": "caro@prueba.com",
         "estado":"ACTIVE",
         "departamento": "FUSAGASUGA",
@@ -21,16 +21,16 @@
         "nivel_cargo": "PRUEBAS",
         "identificacion": "10000123",
         "sede": "COLOMBIA",
-        "email_jefe": "pruebaaospina@micompania.com"
+        "email_jefe": "aospina@micompania.com"
     },
      {
-        "nombre": "palmex",
-        "email": "palmex@palmex.com",
+        "nombre": "Diego Ramirez",
+        "email": "dramirez@micompania.com",
         "estado": "ACTIVE",
         "departamento":"FUSAGASUGA",
         "cargo": "QA",
         "nivel_cargo": "PRUEBAS",
-        "identificacion": "210000123",
+        "identificacion": "30000001",
         "sede": "COLOMBIA",
         "email_jefe": "111aospina@micompania.com"
     },
