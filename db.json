@@ -1,7 +1,7 @@
 {
   "empleados":[
     {
-        "nombre": "nico",
+        "nombre": "",
         "email": "nico1@prueba.com",
         "estado":"ACTIVE",
         "departamento": "FUSAGASUGA",
@@ -13,7 +13,7 @@
     },
     
       {
-        "nombre": "Carolina Prueba",
+        "nombre": "",
         "email": "caro@prueba.com",
         "estado":"ACTIVE",
         "departamento": "FUSAGASUGA",
