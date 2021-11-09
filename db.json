@@ -42,7 +42,7 @@
         "cargo": "Vendedor Zona Occidente",
         "nivel_cargo": "PRUEBAS",
         "identificacion": "30111111",
-        "sede": "",
+        "sede": "Colombia-1A",
         "email_jefe": "aospina@micompania.com"
     },
      {
@@ -53,7 +53,7 @@
         "cargo": "Vendedor Zona Occidente",
         "nivel_cargo": "DELEITE",
         "identificacion": "30111111",
-        "sede": "",
+        "sede": "Colombia-1A",
         "email_jefe": "aospina@micompania.com"
     },
      {
@@ -64,7 +64,7 @@
         "cargo": "Vendedor Zona Occidente",
         "nivel_cargo": "PRUEBA",
         "identificacion": "30111111",
-        "sede": "",
+        "sede":"Colombia-1A",
         "email_jefe": "aospina@micompania.com"
     },
      {
@@ -75,7 +75,7 @@
         "cargo": "Vendedor Zona Occidente",
         "nivel_cargo": "PRUEBA",
         "identificacion": "30111111",
-        "sede": "",
+        "sede": "Colombia-1A",
         "email_jefe": "aospina@micompania.com"
     },
      {
@@ -86,7 +86,7 @@
         "cargo": "Vendedor Zona Occidente",
         "nivel_cargo": "PRUEBA",
         "identificacion": "30111111",
-        "sede": "",
+        "sede": "Colombia-1A",
         "email_jefe": "aospina@micompania.com"
     }
     
