@@ -18,7 +18,7 @@
         "estado":"ACTIVE",
         "departamento": "FUSAGASUGA",
         "cargo": "QA",
-        "nivel_cargo": "",
+        "nivel_cargo": "PRUEBAS",
         "identificacion": "10000123",
         "sede": "COLOMBIA",
         "email_jefe": "aospina@micompania.com"
@@ -29,7 +29,7 @@
         "estado": "ACTIVE",
         "departamento":"FUSAGASUGA",
         "cargo": "QA",
-        "nivel_cargo": "",
+        "nivel_cargo": "PRUEBAS",
         "identificacion": "210000123",
         "sede": "COLOMBIA",
         "email_jefe": "aospina@micompania.com"
@@ -40,7 +40,7 @@
         "estado": "ACTIVE",
         "departamento": "BOGOTA",
         "cargo": "Vendedor Zona Occidente",
-        "nivel_cargo": "",
+        "nivel_cargo": "PRUEBAS",
         "identificacion": "21000011",
         "sede": "COLOMBIA",
         "email_jefe": "aospina@micompania.com"
@@ -62,7 +62,7 @@
         "estado": "ACTIVE",
         "departamento": "BOGOTA",
         "cargo": "Vendedor Zona Occidente",
-        "nivel_cargo": "",
+        "nivel_cargo": "PRUEBA",
         "identificacion": "21000013",
         "sede": "COLOMBIA",
         "email_jefe": "aospina@micompania.com"
@@ -73,7 +73,7 @@
         "estado": "ACTIVE",
         "departamento": "BOGOTA",
         "cargo": "Vendedor Zona Occidente",
-        "nivel_cargo": "",
+        "nivel_cargo": "PRUEBA",
         "identificacion": "21000014",
         "sede": "COLOMBIA",
         "email_jefe": "aospina@micompania.com"
@@ -84,7 +84,7 @@
         "estado": "ACTIVE",
         "departamento": "BOGOTA",
         "cargo": "Vendedor Zona Occidente",
-        "nivel_cargo": "",
+        "nivel_cargo": "PRUEBA",
         "identificacion": "21000015",
         "sede": "COLOMBIA",
         "email_jefe": "aospina@micompania.com"
