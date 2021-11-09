@@ -1,5 +1,16 @@
 {
   "empleados":[
+    {
+        "nombre": "nico",
+        "email": "nico1@prueba.com",
+        "estado":"ACTIVE",
+        "departamento": "",
+        "cargo": "",
+        "nivel_cargo": "",
+        "identificacion": "10000123",
+        "sede": "",
+        "email_jefe": "aospina@micompania.com"
+    },
     
       {
         "nombre": "Carolina Prueba",
