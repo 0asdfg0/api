@@ -4,11 +4,11 @@
         "nombre": "nico",
         "email": "nico1@prueba.com",
         "estado":"ACTIVE",
-        "departamento": "",
-        "cargo": "",
-        "nivel_cargo": "",
+        "departamento": "FUSAGASUGA",
+        "cargo": "PRUEBAS",
+        "nivel_cargo": "QA",
         "identificacion": "10000123",
-        "sede": "",
+        "sede": "BOLIVA",
         "email_jefe": "aospina@micompania.com"
     },
     
