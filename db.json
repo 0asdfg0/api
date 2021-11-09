@@ -9,7 +9,7 @@
         "nivel_cargo": "QA",
         "identificacion": "10000123",
         "sede": "BOLIVA",
-        "email_jefe": "111aospina@micompania.com"
+        "email_jefe": "pruebaaospina@micompania.com"
     },
     
       {
@@ -21,7 +21,7 @@
         "nivel_cargo": "PRUEBAS",
         "identificacion": "10000123",
         "sede": "COLOMBIA",
-        "email_jefe": "111aospina@micompania.com"
+        "email_jefe": "pruebaaospina@micompania.com"
     },
      {
         "nombre": "palmex",
