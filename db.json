@@ -78,9 +78,9 @@
         "sede": "Colombia-1A",
         "email_jefe": "aospina@micompania.com"
     },
-     {
-        "nombre": "Piazza-5",
-        "email": "piazza5@palmex.com",
+       {
+        "nombre": "Piazza-4",
+        "email": "piazza4@palmex.com",
         "estado": "ACTIVE",
         "departamento": "BOGOTA",
         "cargo": "Vendedor Zona Occidente",
@@ -88,6 +88,17 @@
         "identificacion": "30111111",
         "sede": "Colombia-1A",
         "email_jefe": "aospina@micompania.com"
+    },
+     {
+        "nombre": "nam",
+        "email": "nam@palmex.com",
+        "estado": "ACTIVE",
+        "departamento": "BOGOTA",
+        "cargo": "Vendedor Zona Occidente",
+        "nivel_cargo": "PRUEBA",
+        "identificacion": "1561561",
+        "sede": "Colombia-1A",
+        "email_jefe": ""
     }
     
   ]
