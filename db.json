@@ -9,7 +9,7 @@
         "nivel_cargo": "QA",
         "identificacion": "10000123",
         "sede": "BOLIVA",
-        "email_jefe": "pterteraospina@micompania.com"
+        "email_jefe": ""
     },
     
       {
@@ -21,7 +21,7 @@
         "nivel_cargo": "PRUEBAS",
         "identificacion": "10000123",
         "sede": "COLOMBIA",
-        "email_jefe": "aospina@micompania.com"
+        "email_jefe": ""
     },
      {
         "nombre": "Diego Ramirez",
