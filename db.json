@@ -3,7 +3,7 @@
     {
         "nombre": "nico",
         "email": "nico1@prueba.com",
-        "estado":"ACTIVO",
+        "estado":"ACTIVE",
         "departamento": "FUSAGASUGA",
         "cargo": "PRUEBAS",
         "nivel_cargo": "QA",
