@@ -9,7 +9,7 @@
         "nivel_cargo": "QA",
         "identificacion": "10000123",
         "sede": "BOLIVA",
-        "email_jefe": "aospinamicompania.com"
+        "email_jefe": "11aaaospina@micompania.com"
     },
     
       {
@@ -21,7 +21,7 @@
         "nivel_cargo": "PRUEBAS",
         "identificacion": "10000123",
         "sede": "COLOMBIA",
-        "email_jefe": "aospinamicompania.com"
+        "email_jefe": "aospina@micompania.com"
     },
      {
         "nombre": "Diego Ramirez",
@@ -43,7 +43,7 @@
         "nivel_cargo": "PRUEBAS",
         "identificacion": "30111111",
         "sede": "Colombia-1A",
-        "email_jefe": "abbaospina@micompania.com"
+        "email_jefe": "aospina@micompania.com"
     },
      {
         "nombre": "Piazza-2",
